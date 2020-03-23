@@ -1,0 +1,22 @@
+{
+  "name": "essentials-of-interpretation-eva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/eva.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioncreature/essentials-of-interpretation-eva.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioncreature/essentials-of-interpretation-eva/issues"
+  },
+  "homepage": "https://github.com/ioncreature/essentials-of-interpretation-eva#readme"
+}
