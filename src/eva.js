@@ -7,8 +7,9 @@ class Eva {
         if (isNumber(input))
             return input;
 
-        // if (isString(input))
-        //     return
+        if (isString(input))
+            return input.slice(1, -1);
+
         throw 'Not Implemented';
     }
 }
